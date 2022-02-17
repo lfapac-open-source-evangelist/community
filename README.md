@@ -8,5 +8,5 @@
 
 ## 工作组集体会议相关
 
-详情请访问：[每月在线会议纪要](https://github.com/lfapac-open-source-evangelist/community/wiki/Evangelist-community-meeting-minutes)
+详情请访问：[每月在线会议纪要](https://github.com/lfapac-open-source-evangelist/community/wiki/Monthly-Sync-Up-Meeting-Miniutes)
 
