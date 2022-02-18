@@ -13,6 +13,4 @@
 
 详情请访问：[每月在线会议纪要](https://github.com/lfapac-open-source-evangelist/community/wiki/Monthly-Sync-Up-Meeting-Miniutes)
 
-more details, please go to wiki page :[Monthly Sync Up Meeting]((https://github.com/lfapac-open-source-evangelist/community/wiki/Monthly-Sync-Up-Meeting-Miniutes)
-
-)
+more details, please go to [wiki page](https://github.com/lfapac-open-source-evangelist/community/wiki): [Monthly Sync Up Meeting](https://github.com/lfapac-open-source-evangelist/community/wiki/Monthly-Sync-Up-Meeting-Miniutes)
