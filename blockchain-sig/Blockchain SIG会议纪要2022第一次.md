@@ -7,7 +7,7 @@
 
 ### 2. Generate more Content, e.g. Technical Articles, Use Cases, Video
 
-#### Live stream
+* Live stream
 
 ### 3. Organize Events and Meet ups
 
