@@ -27,5 +27,5 @@
 | 1 | Introduction to FireFly | 赵振华, 阿法兔，Eric | April 5 |
 
 **Next Meeting** 
-Date: April 5, 20:00 
-Host: 赵振华
+- Date: April 5, 20:00 
+- Host: 赵振华
