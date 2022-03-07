@@ -1,22 +1,27 @@
 
 # Blockchain SIG会议纪要(2022.02)
 
-The first meeting of Blockchain SIG in 2022
+## The first meeting of Blockchain SIG in 2022
 
-## Blockchain Direction: 
+**Time: March 7, 2022 17:00 - 17:45**
 
-### 1. Promote Blockchain and Hyperledger projects
+**Present:** 
+ - 阿法兔
+ - 程阳
+ - 赵振华
+ - Eric Zhang
+ - 苏振兵
+ - 郁志强
+ - 侯胡的
 
-* Project show time. Invite maintainers of Hyperledger projects share something about the project, like introduction or usecases.
+### Meeting Agreement: 
 
-### 2. Generate more Content, e.g. Technical Articles, Use Cases, Video
-
-* Live stream
-* Translate Technical Articles into Chinese, such as [Hyperledger Blogs](https://www.hyperledger.org/news/blog)
-
-### 3. Organize Events and Meetups
-
-### 4. Promote Upstream Contribution from China
+1. Sig meeting, 20:00 first Tuesday every month
+2. Introduction to FireFly
 
 
-### 5. Enhance Government Communication on Hyperledger Foundation
+### Follow up:
+
+| #  | Subject | Owner | Due date |
+|---:|:---------|:-------|----------|
+| 1 | Introduction to FireFly | 赵振华, 阿法兔，Eric | April 5 |
