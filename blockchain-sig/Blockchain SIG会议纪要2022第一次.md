@@ -22,6 +22,6 @@
 
 ### Follow up:
 
-|   | Subject | Owner | Due date |
+| #  | Subject | Owner | Due date |
 |---:|:---------|:-------|----------|
 | 1 | Introduction to FireFly | 赵振华, 阿法兔，Eric | April 5 |
