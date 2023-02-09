@@ -5,7 +5,8 @@
 ## 成员（members）
 
 * [Jiansheng Li](/lijiangsheng1) , Chairperson of 2022.
-* 
+* Zhenhua Zhao, Co-Chair of 2023
+* Zhiqiang Yu, Evangelist Team Member, Co-Chair of OSPO SIG
 
 本仓库用于开源方式的协作。
 
